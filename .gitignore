@@ -1,0 +1,8 @@
+#Ignorar los archivos txt
+*.txt
+
+#ignorar los archivos build
+*build/
+
+#igrnoar los archivos .exe
+*.exe
