@@ -6,7 +6,6 @@ function saludar(nombre) {
 console.log(saludar("Mundo"));
 
 // fin de la funcion Julio
-
 // funcion Antonio
 function sumar(a, b) {
   return a + b;
